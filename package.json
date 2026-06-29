@@ -34,6 +34,7 @@
   "publishConfig": {
     "access": "public"
   },
+  "main": "./dist/index.mjs",
   "scripts": {
     "build": "vp pack",
     "dev": "vp pack --watch",
