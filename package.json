@@ -39,7 +39,7 @@
     "dev": "vp pack --watch",
     "test": "vp test",
     "check": "vp check",
-    "prepublishOnly": "vp run build"
+    "prepublishOnly": "node_modules/.bin/vp run build"
   },
   "devDependencies": {
     "@opencode-ai/plugin": "^1.17.11",
