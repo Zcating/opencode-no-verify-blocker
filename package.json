@@ -53,5 +53,7 @@
   "peerDependencies": {
     "@opencode-ai/plugin": ">=1.0.0"
   },
-  "packageManager": "pnpm@11.9.0"
+  "packageManager": "pnpm@11.9.0",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.mts"
 }
