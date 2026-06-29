@@ -4,12 +4,6 @@ An [OpenCode](https://opencode.ai) plugin that prevents AI agents from bypassing
 
 When the agent runs a bash tool call that looks like a `git commit` (or `git commit-tree`) with one of the forbidden flags, the plugin throws an error and the command never executes. The agent sees the error message and re-generates a clean command.
 
-## Install
-
-```bash
-pnpm add -D opencode-no-verify-blocker
-```
-
 ## Usage
 
 Add the plugin to your `opencode.json` (project) **or** `~/.config/opencode/opencode.json` (global):
