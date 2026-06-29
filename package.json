@@ -11,15 +11,15 @@
     "plugin",
     "pre-commit"
   ],
-  "homepage": "https://github.com/hid82531854/opencode-no-verify-blocker#readme",
+  "homepage": "https://github.com/Zcating/opencode-no-verify-blocker#readme",
   "bugs": {
-    "url": "https://github.com/hid82531854/opencode-no-verify-blocker/issues"
+    "url": "https://github.com/Zcating/opencode-no-verify-blocker/issues"
   },
   "license": "MIT",
   "author": "linweichen <linweichen@example.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hid82531854/opencode-no-verify-blocker.git"
+    "url": "git+https://github.com/Zcating/opencode-no-verify-blocker.git"
   },
   "files": [
     "dist",
